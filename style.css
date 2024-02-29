@@ -1,0 +1,43 @@
+h1,h3{
+    text-align: center;
+}
+
+
+
+.colorsbox{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: rgb(132, 132, 228);
+}
+.green{
+    background-color: green;
+}
+
+#box{
+    height: 250px;
+    width: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.colorflash{
+    background-color: white;
+}
+
+.lost{
+    background-color: r;
+}
